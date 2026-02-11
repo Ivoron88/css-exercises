@@ -1,4 +1,9 @@
+
+/*(Keep this at the top of your notes. You will use it in every project you ever build.)*/
 .container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   background: dodgerblue;
   border: 4px solid midnightblue;
   width: 400px;
@@ -12,4 +17,5 @@
   border: 6px solid maroon;
   width: 80px;
   height: 80px;
+  
 }
